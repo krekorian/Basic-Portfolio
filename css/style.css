@@ -10,9 +10,11 @@ a:hover{
     color:blue;
 }
 header {
+    right: 0px;
+    left: 0px;
     padding-bottom: 64px;
     background-color: #ffffff;
-    margin: 0 auto;
+    margin: 0;
     border-bottom: 3px #cccccc solid;
 }
 
@@ -29,7 +31,7 @@ input{
     background-color: #4aaaa5;
     float: left;
     color: white;
-    padding: 20px;
+    padding: 20px 20px 16px 20px;
     font-size: 24px;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -97,14 +99,6 @@ input{
     top:40px;
     margin:auto;
     background-color: #ffffff;
-}
-
-.second_block{
-    position: absolute;
-    margin-top: 40px;
-    margin-left: 40px;
-    width: 920px;
-    
 }
 
 section {
