@@ -153,7 +153,7 @@ form {
 
 
 
-#text_block {
+#text_block_1 {
     width: 90%;
     padding-left: 40px;
     margin-right: 40px;
@@ -179,64 +179,14 @@ form {
     text-align: center;
     
   }
-  textarea {
-      margin-left:0px;
-      margin-top:20px;
-      padding-left:140px;
-      padding-top: 20px;
-      height: 200px;
 
-  }
 
-  
-.portfolio-pic-container{
-    width:880px;
-}
-
- .portfolio_pic {
-    position: relative;
-    
- }
-
- .portfolio_pic-left{
-    float: left;
-}
-
- .portfolio_label {
-     position: absolute;
-     
-     
-     width: 200px;
-     color:white;
-     background-color: #4aaaa5;
-     bottom: 30px;
-     top: 260px;
-     left:60px;
-     text-align:center;
-     vertical-align: center;
-     padding-bottom: 30px;
-     padding-top: 10px;
-     
-     
- }
-/*
- .row {
-    display: flex;
-    
-  }
-  
- 
-  .column {
-    flex: 50%;
-    
-  }
-  */
 
   .row{
       padding-left:40px;
   }
   .column img {
-    margin-top: 8px;
+    margin-top: 0px;
     
   }
 
